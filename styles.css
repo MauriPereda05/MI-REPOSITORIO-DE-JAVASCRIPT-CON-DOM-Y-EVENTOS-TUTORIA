@@ -1,0 +1,73 @@
+body {
+    padding: 0;
+    background-image: url("./img/paisaje.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 860px;
+    margin: 0; 
+}
+
+.container {
+    text-align: center;
+}
+
+section {
+    width: 400px;
+    height: 550px;
+    padding: 20px;
+    background-color: #31333250;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
+
+i {
+    margin: 8px;
+    padding: 8px;
+    font-size: 30px;
+    border: 1px solid white;
+    border-radius: 30px;
+    color: white;
+}
+
+p {
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 20px;
+    color: white;
+}
+
+input {
+    margin-top: 25px;
+    border: none;
+    border-bottom: 2px solid white;
+    text-align: center;
+    width: 250px;
+    padding: 10px;
+    background-color: transparent;
+    outline: none;
+    color: white;
+}
+
+button {
+    margin-top: 40px;
+    width: 200px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+
