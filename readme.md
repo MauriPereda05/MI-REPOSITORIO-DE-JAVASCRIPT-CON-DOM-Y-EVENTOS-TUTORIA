@@ -100,7 +100,7 @@ function limpiarCampos() {
 
 ## Authors
 
-- [@Mauricio Pereda Ruiz](https://www.github.com/octokatherine)
+- [@Mauricio Pereda Ruiz](https://github.com/MauriPereda05)
 
 
 
